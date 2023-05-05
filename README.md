@@ -75,3 +75,6 @@ Hi! My name is Aditya Kresna Cakramurti. Here is my Portfolio as a Data Analytic
 
 ### Tableau Dashboard
 [Tableau Dashboard](https://public.tableau.com/views/TableauDashboard_16832882152830/SambaE-Commerce?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### Deck
+[Data Visualization](https://docs.google.com/presentation/d/1_Y6PZP8phIi-leUteSEB1ZwUSENShBm2SRhOaK81e2g/edit?usp=sharing)
