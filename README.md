@@ -45,3 +45,19 @@ Hi! My name is Aditya Kresna Cakramurti. Here is my Portfolio as a Data Analytic
 
 [SQL Project 4](https://console.cloud.google.com/bigquery?sq=1095796195504:3cddf4b3678a438faf12299eb170db4f)
 
+## Phyton Skill Sets.
+- Removing irrelevant values
+- Handling missing data
+- Removing duplicates
+- Handling Outlier
+- String manipulation
+- Combine & merge datasets
+- Data aggregation
+- Descriptive statistic
+- Analyzing using visualization
+
+### Code Example.
+[Phyton Project](https://colab.research.google.com/drive/1Yz8cukGTFmpbd7DZukqnjjjoSXI1njEj?usp=sharing)
+
+### Deck
+[Phyton Project](https://drive.google.com/open?id=1Ff7-3N-yEp8KRPM0NRs3zTi-0T1_z-oD&usp=drive_copy)
