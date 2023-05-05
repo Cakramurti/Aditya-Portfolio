@@ -62,3 +62,16 @@ Hi! My name is Aditya Kresna Cakramurti. Here is my Portfolio as a Data Analytic
 
 ### Deck
 [Phyton Project](https://drive.google.com/open?id=1Ff7-3N-yEp8KRPM0NRs3zTi-0T1_z-oD&usp=drive_copy)
+
+## Dataviz using Tableau and Google Studio:
+- Connect and combine/ join datasets
+- Data formatting
+- Visualization
+- Calculated field
+- Interactive Dashboard
+
+### Looker Dashboard
+[Looker Dashboard](https://lookerstudio.google.com/reporting/dab25b6d-ebd9-4ec0-bc22-20eebf11f6e2)
+
+### Tableau Dashboard
+[Tableau Dashboard](https://public.tableau.com/views/TableauDashboard_16832882152830/SambaE-Commerce?:language=en-US&:display_count=n&:origin=viz_share_link)
