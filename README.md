@@ -61,7 +61,7 @@ Hi! My name is Aditya Kresna Cakramurti. Here is my Portfolio as a Data Analytic
 [Phyton Project](https://colab.research.google.com/drive/1Yz8cukGTFmpbd7DZukqnjjjoSXI1njEj?usp=sharing)
 
 ### Deck
-[Phyton Project](https://drive.google.com/open?id=1Ff7-3N-yEp8KRPM0NRs3zTi-0T1_z-oD&usp=drive_copy)
+[Phyton Project](https://docs.google.com/presentation/d/1KXDC714fHbB2_dsL1w-mWygE_7Au5bAWQ4Ii6ui5rQE/edit?usp=sharing)
 
 ## Dataviz using Tableau and Google Studio:
 - Connect and combine/ join datasets
