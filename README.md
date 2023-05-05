@@ -55,6 +55,7 @@ Hi! My name is Aditya Kresna Cakramurti. Here is my Portfolio as a Data Analytic
 - Data aggregation
 - Descriptive statistic
 - Analyzing using visualization
+- Cluster Analysis
 
 ### Code Example.
 [Phyton Project](https://colab.research.google.com/drive/1Yz8cukGTFmpbd7DZukqnjjjoSXI1njEj?usp=sharing)
