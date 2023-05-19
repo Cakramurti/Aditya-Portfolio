@@ -78,3 +78,6 @@ Hi! My name is Aditya Kresna Cakramurti. Here is my Portfolio as a Data Analytic
 
 ### Deck
 [Data Visualization](https://docs.google.com/presentation/d/1_Y6PZP8phIi-leUteSEB1ZwUSENShBm2SRhOaK81e2g/edit?usp=sharing)
+
+### PowerBI Dashboard
+[Tableau Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGQ1Y2U0NzItZGZiMy00NDA1LTlhNWUtYTZjMTk0ODNlZTI1IiwidCI6IjRjM2M0ZTNhLTFiNjUtNGQ0ZS1hOTE3LWIzZjljODNmNzBmOSJ9)
