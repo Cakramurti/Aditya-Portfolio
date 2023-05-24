@@ -80,4 +80,5 @@ Hi! My name is Aditya Kresna Cakramurti. Here is my Portfolio as a Data Analytic
 [Data Visualization](https://docs.google.com/presentation/d/1_Y6PZP8phIi-leUteSEB1ZwUSENShBm2SRhOaK81e2g/edit?usp=sharing)
 
 ### PowerBI Maven Challenge Dashboard
-[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGQ1Y2U0NzItZGZiMy00NDA1LTlhNWUtYTZjMTk0ODNlZTI1IiwidCI6IjRjM2M0ZTNhLTFiNjUtNGQ0ZS1hOTE3LWIzZjljODNmNzBmOSJ9)
+[Project Page](https://www.mavenanalytics.io/project/5738)
+[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTllYmRmZDgtZjYwMy00NmFkLWExNTUtM2Q0NDQ1Y2YyNzM2IiwidCI6IjRjM2M0ZTNhLTFiNjUtNGQ0ZS1hOTE3LWIzZjljODNmNzBmOSIsImMiOjEwfQ%3D%3D)
