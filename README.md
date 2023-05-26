@@ -37,9 +37,9 @@ Hi! My name is Aditya Kresna Cakramurti. Here is my Portfolio Analytics Portfoli
 - SQL Window Function.
 
 ### Code Example.
-[SQL Project (Products that generate most sales with shipped status on December 2022)](https://console.cloud.google.com/bigquery?sq=1095796195504:02881ea3ab5a4a81943bf4fa647f6d83)
+[SQL Project (Product category that generate most sales with shipped status on December 2022)](https://console.cloud.google.com/bigquery?sq=1095796195504:02881ea3ab5a4a81943bf4fa647f6d83)
 
-[SQL Project 2](https://console.cloud.google.com/bigquery?sq=1095796195504:e45a2926af22446d80ff235e488b8ed1)
+[SQL Project (Product category that has the worst growth increase in term of sales number on Dec 2022 compared to previous month](https://console.cloud.google.com/bigquery?sq=1095796195504:e45a2926af22446d80ff235e488b8ed1)
 
 [SQL Project 3](https://console.cloud.google.com/bigquery?sq=1095796195504:1f133c818e7c43d3a4a1380a1dc1abf3)
 
