@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Hi! My name is Aditya Kresna Cakramurti. Here is my Portfolio Analytics Portfolio, please check it out!
+Hi! My name is Aditya Kresna Cakramurti. Here is my Analytics Portfolio, please check it out!
 
 ## Business Understanding Skill Sets.
 - DARCI.
