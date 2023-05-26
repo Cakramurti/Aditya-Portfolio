@@ -41,7 +41,7 @@ Hi! My name is Aditya Kresna Cakramurti. Here is my Portfolio Analytics Portfoli
 
 [SQL Project (Product category that has the worst growth increase in term of sales number on Dec 2022 compared to previous month)](https://console.cloud.google.com/bigquery?sq=1095796195504:e45a2926af22446d80ff235e488b8ed1)
 
-[SQL Project 3](https://console.cloud.google.com/bigquery?sq=1095796195504:1f133c818e7c43d3a4a1380a1dc1abf3)
+[SQL Project (Best platform to get a session on Dec 2022)](https://console.cloud.google.com/bigquery?sq=1095796195504:1f133c818e7c43d3a4a1380a1dc1abf3)
 
 [SQL Project 4](https://console.cloud.google.com/bigquery?sq=1095796195504:3cddf4b3678a438faf12299eb170db4f)
 
