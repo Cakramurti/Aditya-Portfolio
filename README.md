@@ -60,10 +60,10 @@ All using theLook eCommerce fictitious public datasets
 - Cluster Analysis
 
 ### Code Example.
-[Phyton Project](https://colab.research.google.com/drive/1Yz8cukGTFmpbd7DZukqnjjjoSXI1njEj?usp=sharing)
+[Phyton Project (Trend and Customer Cluster)](https://colab.research.google.com/drive/1Yz8cukGTFmpbd7DZukqnjjjoSXI1njEj?usp=sharing)
 
 ### Deck
-[Phyton Project](https://docs.google.com/presentation/d/1KXDC714fHbB2_dsL1w-mWygE_7Au5bAWQ4Ii6ui5rQE/edit?usp=sharing)
+[Phyton Project (Trend and Customer Cluster)](https://docs.google.com/presentation/d/1KXDC714fHbB2_dsL1w-mWygE_7Au5bAWQ4Ii6ui5rQE/edit?usp=sharing)
 
 ## Dashboard:
 - Connect and combine/ join datasets
