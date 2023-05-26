@@ -45,7 +45,7 @@ All using theLook eCommerce fictitious public datasets
 
 [SQL Project (Best platform to get a session on Dec 2022)](https://console.cloud.google.com/bigquery?sq=1095796195504:1f133c818e7c43d3a4a1380a1dc1abf3)
 
-[SQL Project (Top 3 user's first traffic source that provide the most revenue in the past 3 months from 1 Jan 2023](https://console.cloud.google.com/bigquery?sq=1095796195504:3cddf4b3678a438faf12299eb170db4f)
+[SQL Project (Top 3 user's first traffic source that provide the most revenue in the past 3 months from 1 Jan 2023)](https://console.cloud.google.com/bigquery?sq=1095796195504:3cddf4b3678a438faf12299eb170db4f)
 
 ## Phyton Skill Sets.
 - Removing irrelevant values
