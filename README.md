@@ -37,7 +37,7 @@ Hi! My name is Aditya Kresna Cakramurti. Here is my Portfolio Analytics Portfoli
 - SQL Window Function.
 
 ### Code Example.
-All using theLook eCommerce fictious public datasets
+All using theLook eCommerce fictitious public datasets
 
 [SQL Project (Product category that generate most sales with shipped status on December 2022)](https://console.cloud.google.com/bigquery?sq=1095796195504:02881ea3ab5a4a81943bf4fa647f6d83)
 
