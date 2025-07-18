@@ -47,7 +47,7 @@ All using theLook eCommerce fictitious public datasets
 
 [SQL Project (Top 3 user's first traffic source that provide the most revenue in the past 3 months from 1 Jan 2023)](https://console.cloud.google.com/bigquery?sq=1095796195504:3cddf4b3678a438faf12299eb170db4f)
 
-## Phyton Skill Sets.
+## Python Skill Sets.
 - Removing irrelevant values
 - Handling missing data
 - Removing duplicates
@@ -60,10 +60,10 @@ All using theLook eCommerce fictitious public datasets
 - Cluster Analysis
 
 ### Code Example.
-[Phyton Project (Trend and Customer Cluster)](https://colab.research.google.com/drive/1Yz8cukGTFmpbd7DZukqnjjjoSXI1njEj?usp=sharing)
+[Python Project (Trend and Customer Cluster)](https://colab.research.google.com/drive/1Yz8cukGTFmpbd7DZukqnjjjoSXI1njEj?usp=sharing)
 
 ### Deck
-[Phyton Project (Trend and Customer Cluster)](https://docs.google.com/presentation/d/1KXDC714fHbB2_dsL1w-mWygE_7Au5bAWQ4Ii6ui5rQE/edit?usp=sharing)
+[Python Project (Trend and Customer Cluster)](https://docs.google.com/presentation/d/1KXDC714fHbB2_dsL1w-mWygE_7Au5bAWQ4Ii6ui5rQE/edit?usp=sharing)
 
 ## Dashboard:
 - Connect and combine/ join datasets
